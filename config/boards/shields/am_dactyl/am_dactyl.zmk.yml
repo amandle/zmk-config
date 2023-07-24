@@ -1,0 +1,12 @@
+file_format: "1"
+id: am_dactyl
+name: AM Dactyl
+type: shield
+url: https://amandle.com
+requires: [pro_micro]
+exposes: [i2c_oled]
+features:
+  - keys
+siblings:
+  - am_dactyl_left
+  - am_dactyl_right
