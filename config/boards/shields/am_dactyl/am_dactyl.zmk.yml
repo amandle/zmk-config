@@ -4,7 +4,6 @@ name: AM Dactyl
 type: shield
 url: https://amandle.com
 requires: [pro_micro]
-exposes: [i2c_oled]
 features:
   - keys
 siblings:
